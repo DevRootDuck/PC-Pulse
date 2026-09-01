@@ -24,7 +24,7 @@ pip install -r requirements.txt
 (ou rode manualmente: `pyinstaller --onefile --windowed --name PCPulse --icon=icon.ico dashboard.py`)
 
 O executável final aparece em `dist\PCPulse.exe`. Pode copiar esse
-arquivo pra onde quiser — ele roda sozinho, sem precisar do Python
+arquivo pra onde quiser, ele roda sozinho, sem precisar do Python
 instalado na máquina de destino.
 
 ## Rodando sem compilar (pra testar rápido)
