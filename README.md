@@ -1,4 +1,4 @@
-# PC Pulse — Dashboard de Performance
+# PC Pulse [ Dashboard de Performance ]
 
 App de monitoramento de CPU, RAM, disco e rede em tempo real, com
 gráficos ao vivo. Interface escura (preto / azul / amarelo).
